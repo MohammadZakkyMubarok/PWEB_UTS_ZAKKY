@@ -1,0 +1,16 @@
+Mohammad Zakky Mubarok – 22416255201016 – IF22B
+
+1.	Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Framework pada pengembangan aplikasi dapat diibaratkan sebagai kerangka kerja atau struktur yang sudah disiapkan untuk memudahkan pembuatan aplikasi. Bayangkan jika kita ingin membangun sebuah rumah, daripada harus membuat semuanya dari awal seperti pondasi, dinding, atap, dan lainnya, kita bisa menggunakan sebuah kerangka kerja bangunan yang sudah ada. Framework dalam pengembangan aplikasi memiliki fungsi serupa.
+Dengan menggunakan framework, pengembang dapat memanfaatkan kumpulan alat, aturan, dan struktur yang sudah tersedia sehingga mereka tidak perlu membuat semuanya dari nol. Ini membantu menghemat waktu dan upaya dalam pembuatan aplikasi. Sebagai contoh, framework dapat menyediakan cara standar untuk mengelola database, menangani permintaan dari pengguna, atau menata tata letak halaman.
+Dengan menggunakan framework, proses pengembangan menjadi lebih terstruktur dan efisien, seolah-olah kita memiliki "kerangka kerja" yang telah disiapkan untuk memandu langkah-langkah pembuatan aplikasi. Ini juga dapat memastikan konsistensi dan standar dalam pengembangan, memudahkan pemeliharaan, dan mempercepat proses pengembangan aplikasi secara keseluruhan.
+2.	a. Sebutkan tema proyek yang sedang digarap! 
+- 	Self Service Laundry dengan sistem booking online pada weekend
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota! 
+-	Farhan Mutawakkil Haidar - Backend
+-	Mohammad Zakky Mubarok - Front End
+-	Laura Amelia - Data Analyst
+c)	Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+Laundry hasil survey dan wawancara menggunakan sistem self-service, namun admin laundry tersebut mengakui bahwa setiap hari weekend laundry tersebut selalu ramai dengan customer sehingga mengakibatkan antrian yang panjang. Alat cuci serta pengering yang tersedia terbatas adalah penyebabnya, sehingga kelompok kami mengusung untuk membuat sistem booking online pada website atau aplikasi laundry agar customer tidak perlu lagi menunggu serta memantau disaat alat cuci ataupun pengering sudah kosong.
+
